@@ -16,7 +16,7 @@ I'm Undergraduate,Developer
 - ✍️ I've Experienced in Front-end Web Development , Java , Python.
 -  💬 Ask me about anything, I am happy to help :smile:
 
-🛠 &nbsp;Tech Stack :<hr>
+🛠 &nbsp;Tech Stack :
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
