@@ -7,7 +7,8 @@
 </p>
 <br>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-### I'm Undergraduate,Developer 
+ 
+I'm Undergraduate,Developer 
 
 - 😄 I'm Navindu, ComputerScience Undergraduate at IIT.
 - 👯 I’m looking to collaborate on  Open Source Projects
@@ -15,8 +16,7 @@
 - ✍️ I've Experienced in Front-end Web Development , Java , Python.
 -  💬 Ask me about anything, I am happy to help :smile:
 
-
-### 🛠 &nbsp;Tech Stack
+🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
