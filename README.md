@@ -1,7 +1,7 @@
 <p>
   <h1 align="left"><b>💫 About Me:</b></h1>
 </p>
-<p align="center">
+<p align="justify">
 <br>
 <a href="https://www.linkedin.com/in/navindu-fernando-323688293/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
