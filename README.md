@@ -11,7 +11,7 @@
 Hello and welcome to my GitHub page! 👋
 
 - 👨🏻‍💻 I'm Undergraduate,Developer
-- 😄 I'm Navindu, ComputerScience Undergraduate at IIT.
+- 😄 I'm Navindu, Software Engineer Undergraduate at IIT.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🌱 I’m currently learning Full Stack Development.
 - ✍️ I've Experienced in Front-end Web Development , Java , Python.
