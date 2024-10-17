@@ -10,11 +10,12 @@
  
 Hello and welcome to my GitHub page! 👋
 
-I’m Navindu, a passionate and driven Software Engineering undergraduate at IIT, with a keen interest in DevOps ⚙️ and Machine Learning 🤖. As a Full-Stack Developer 💻, my journey in technology has allowed me to dive deep into areas like Front-end Web Development, Java, and Python, all while continuously exploring the evolving possibilities of the digital world 🌍.
-
-Currently, I’m expanding my knowledge in Full Stack Development and actively looking to collaborate on Open Source Projects 🤝. I believe that technology has the power to transform lives ✨, and I am dedicated to using it to build efficient and innovative solutions that meet real-world needs 🔧.
-
-Feel free to explore my repositories 🔍, and don’t hesitate to reach out if you’d like to collaborate or talk tech 💬—I’m always happy to help! 😄
+- 👨🏻‍💻 I'm Undergraduate,Developer
+- 😄 I'm Navindu, ComputerScience Undergraduate at IIT.
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🌱 I’m currently learning Full Stack Development.
+- ✍️ I've Experienced in Front-end Web Development , Java , Python.
+- 💬 Ask me about anything, I am happy to help 😄
 
 🛠 &nbsp;Tech Stack :<br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
