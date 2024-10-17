@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there 👋, I'm Navindu Fernando👋</b></h1>
+  <h1 align="center"><b>💫 About Me:</b></h1>
 </p>
 <p align="center">
 <br>
